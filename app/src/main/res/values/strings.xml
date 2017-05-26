@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GESAN</string>
+    <string name="name">Nome</string>
+    <string name="last_name">Cognome</string>
+    <string name="data_di_nascita">Data di nascita</string>
+    <string name="sesso">Sesso</string>
+    <string name="pec">PEC</string>
+    <string name="esenzione">Tipo di esenzione</string>
+    <string name="codice_fiscale">Inserire il Codice Fiscale</string>
+    <string name="pass">Password</string>"
+    <string name="accedi">Accedi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="registrazione">Registrati</string>
+    <string name="prenotazione_da_effettuare">Prenota Visita</string>
+    <string name="visite_prenotate">Visite prenotate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="uomo">Uomo</string>
+    <string name="donna">Donna</string>
+    <string name="title_activity_post_login">postLogin</string>
+    <string name="title_activity_drawer">Gesan</string>
+    <string name="title_activity_swipe_table">SwipeTable</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>

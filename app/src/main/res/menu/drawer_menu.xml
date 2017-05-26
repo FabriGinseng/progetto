@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:menuCategory="container">
+        <item
+            android:id="@+id/personalInformation"
+            android:checked="false"
+            android:title="Dati personali"
+            android:icon="@mipmap/ic_launcher_round"/>
+
+        <item
+            android:id="@+id/prenotazioni"
+            android:checked="false"
+            android:title="Prenotazioni"
+            android:icon="@mipmap/ic_launcher_round"/>
+
+        <item
+            android:id="@+id/prenotazioniAttive"
+            android:checked="false"
+            android:title="Prenotazioni Attive"
+            android:icon="@mipmap/ic_launcher_round"/>
+        <item
+            android:id="@+id/qrCode"
+            android:checked="false"
+            android:title="QR code personale"
+            android:icon="@mipmap/ic_launcher_round"/>
+        <item
+            android:id="@+id/loggout"
+            android:checked="false"
+            android:title="Log Out"
+            android:icon="@mipmap/ic_launcher_round"/>
+    </group>
+</menu>
