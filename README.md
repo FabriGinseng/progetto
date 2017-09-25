@@ -79,3 +79,47 @@ La dispensa si chiuderà in automatico non appena si supererà l’ultima domand
 
   <img align ="right" width="400" height="640" src="https://user-images.githubusercontent.com/28861456/30809590-8c63cbd4-a202-11e7-8e77-9f77ca812a98.png">
 </p>
+
+
+## Apprendimento
+Qui l’utente avrà a disposizione tutte le domande del set e potrà cambiare domanda solo quando sceglierà la risposta giusta.
+Potrà quindi effettuare tutti gli errori che vuole e non avrà nessun limite di tempo.
+<p>
+  <img align="left" width="400" height="640" src="https://user-images.githubusercontent.com/28861456/30809808-55a4ae96-a203-11e7-9855-5828eb6902a3.png">
+
+  <img align ="right" width="400" height="640" src="https://user-images.githubusercontent.com/28861456/30809809-55a4ccd2-a203-11e7-9f10-0b72b095fbc6.png">
+</p>
+
+## Simulazione Assistita
+Qui si svolgerà una simulazione dove l’utente avrà un timer e dovrà rispondere a tutte le domande del set. Non avrà la possibilità di correggere la sua risposta ma se la risposta non è giusta il programma segnerà in verde la risposta giusta ed in rosso quella sbagliata data dall’utente.
+
+<p>
+  <img align="left" width="400" height="640" src="https://user-images.githubusercontent.com/28861456/30809896-a4e6c8e0-a203-11e7-874f-547085952d6b.png">
+
+  <img align ="right" width="400" height="640" src="https://user-images.githubusercontent.com/28861456/30809897-a4e90b5a-a203-11e7-8236-7f2180022e55.png">
+</p>
+
+## Simulazione
+Qui si potrà effettuare una vera e propria simulazione sul set di domande, quindi si avrà un timer e l’utente non potrà vedere se ha sbagliato o meno la sua risposta finché non finirà l’intera simulazione.
+Alla fine della simulazione tutti i dati verranno inviati al server e salvati in memoria mentre all’utente comparirà una schermata coi risultati della simulazione.
+Se l’utente decide di uscire dalla simulazione prima che essa sia conclusa i dati verranno comunque inviati al server.
+
+<p>
+<img  width="250" height="400" src="https://user-images.githubusercontent.com/28861456/30809970-cba8223a-a203-11e7-8fdb-1d6ec89b1f16.png">
+<img  width="250" height="400" src="https://user-images.githubusercontent.com/28861456/30809969-cba6cd86-a203-11e7-9a03-043de1fe807a.png">
+<img  width="250" height="400" src="https://user-images.githubusercontent.com/28861456/30810074-1bc945be-a204-11e7-8580-b56d83b911d4.png">
+</p>
+
+## Statistiche
+Qui l’utente potrà controllare i suoi risultati.
+Si troverà una schermata con due data.picker dove dovrà inserire il range di data sulla quale vuole le statistiche.
+Inserito il range di data potrà vedere tutti i suoi risultati con l’ausilio di diagrammi a torta e un diagramma temporale con i picchi di risposte esatte e sbagliate suddivisi per data.
+
+<p>
+<img align="left" width="400" height="640" src="https://user-images.githubusercontent.com/28861456/30810235-acdfc492-a204-11e7-8c6a-8fdaa3927f30.png">
+<img align="left" width="400" height="640" src="https://user-images.githubusercontent.com/28861456/30810233-acda16e6-a204-11e7-9e82-251545d15105.png">
+</p>
+
+## Log-out
+L’utente potrà slogarsi in qualsiasi momento anche durante una simulazione, se si effettua il log-out sarà possibile accedere da un altro dispositivo.
+Se l’utente manda l’app in background essa effettuerà in automatico il log-out.
